@@ -13,21 +13,6 @@
 
 **Office Hours:** Tuesday and Thursday 3:30-5:30 or by appointment
 
-# Learning Management System
-
-* This course uses cuLearn, Carleton’s learning management system. Updates to course information and readings will be posted on cuLearn. 
-* Assignments are to be submitted on cuLearn by noon on Thursday (see Schedule below).
-
-* To access your courses on cuLearn, go to carleton.ca/culearn. For help and support, go to carleton.ca/culearnsupport/students. Any unresolved questions can be directed to Computing and Communication Services by phone at (613) 520-3700 or via email at ccs_service_desk@carleton.ca.
-
-* Please note that cuLearn is tied to your Carleton email address. Any notifications related to the class will go to that email. Check it regularly.
-
-* If you are sending me email, please ensure that COMM 3409A is added in the subject line with the topic of discussion
-
-* Outside of class time, you can make use of various digital tools to engage with the class. For example, use the discussion forum on cuLearn to ask questions of peers, TAs, and the professor or to talk with your classmates about course material and assignments.
-
-* I will respond to student emails within 24hours between Monday-Friday, 10-5PM, be sure to have COMM 3409A is added in the subject line. Please note that I do not respond to email during the weekend.
-
 # Course Description
 
 > The collection of data about us generally starts when we are born, (sometimes earlier – consider the example of ultrasound), and then continues throughout the course of our lives. Data about us are collected when we go to school and then enter the labour force. We are also tracked throughout our lives via the unique identifier of a Social Insurance Number. Data are also produced as we go about our ordinary daily activities – when we shop, bank, make phone calls, order a taxi, use social media, navigate the city, vote, exercise, and file taxes. Data are also collected as we do exceptional things such as cross international borders, check into hospital, when we commit infractions, at death and even afterward depending on what happens to our bodies, how our families and friends commemorate and remember us and if our actions are recorded and archived. We are datafied, living a dataless life is nearly impossible as is ‘living below the radar’, we each have a data double that leaves behind a data shadow.
@@ -65,12 +50,12 @@ There are two parts to the paper.
 
 Include the following on the title page:
 > Big Data and Society COMM 3409A
-Final Paper
-Title
-Author: First and Last Name
-Student ID
-Submitted to: Dr. Tracey P. Lauriault
-Date: dd/mm/yyyy
+> Final Paper
+> Title
+> Author: First and Last Name
+> Student ID
+> Submitted to: Dr. Tracey P. Lauriault
+> Date: dd/mm/yyyy
 
 **The paper will only be considered submitted for grading once uploaded to cuLearn and the submission statement is accepted and after the proposal has been submitted and evaluated.** Under ordinary circumstances, essays will not be accepted in hard copy or by email. 
 
@@ -121,7 +106,6 @@ Porter, Theodore M. (1995) [Cultures of Objectivity Introduction](http://catalog
   > Explain your interest in this dataset, what you might use the data for and explain what led you to trust these data.  Be sure to provide a full citation of the dataset in the data citation format of your choice.  Here are some useful guides:
 
   > * http://ukdataservice.ac.uk/use-data/citing-data 
-
   > * https://www.datacite.org/services/format-your-citation.html).
 
   ## Week 2 (Sept 10) – Big Data
@@ -148,7 +132,7 @@ Kitchin, Rob. (2014), Chapter 1, [Conceptualizing Data](http://catalogue.library
 
 #### Assignment 2
 
-Referring to the characteristics of big data provided by Kitchin, conduct an inventory of the big data you produce and generate a list.  Select 3 to 5 from this list and describe their characteristics, explain how you generate these, what devices you use to do so, who owns them, how you access them, how these get used and what these might say about you.
+> Referring to the characteristics of big data provided by Kitchin, conduct an inventory of the big data you produce and generate a list.  Select 3 to 5 from this list and describe their characteristics, explain how you generate these, what devices you use to do so, who owns them, how you access them, how these get used and what these might say about you.
 
 #### _Assignment 1 is due_
 
@@ -164,13 +148,13 @@ Starr, Paul and Corson, Ross (1989) [Who will have the Numbers? The Rise of the 
 
 #### The following are useful additional resources.
 
-Caquard, Sebastien. (2014). [Cartography II: Collective Cartographies in the Social Media Era.](DOI: 10.1177/0309132513514005) _Progress in Human Geography_, 38: 141. Pp.141-150.
+Caquard, Sebastien. (2014). [Cartography II: Collective Cartographies in the Social Media Era.](http://doi.org/10.1177/0309132513514005) _Progress in Human Geography_, 38: 141. Pp.141-150.
 
-Harley, J. B. (1989).  [Deconstructing the Map](DOI: 10.3138/E635-7827-1757-9T53). _Cartographica_, 26 (2), pp.1-20.
+Harley, J. B. (1989).  [Deconstructing the Map](https://doi.org/10.3138/E635-7827-1757-9T53). _Cartographica_, 26 (2), pp.1-20.
 
-Wilson, Matthew W. (2012) [Location-Based Services, Conspicuous Mobility, and the Location-Aware Future.](DOI: 10.1016/j.geoforum.2012.03.014)  _Geoforum_ (43), pp.1266-1275.
+Wilson, Matthew W. (2012) [Location-Based Services, Conspicuous Mobility, and the Location-Aware Future.](https://doi.org/10.1016/j.geoforum.2012.03.014)  _Geoforum_ (43), pp.1266-1275.
 
-Government of Canada Report: [_The Canadian Geospatial Data Infrastructure vision, mission and roadmap - The way forward_](http://www.nrcan.gc.ca/earth-sciences/geomatics/canadas-spatial-data-infrastructure/8904) DOI:10.4095/292417).  Natural Resources Canada, Information Product 28e, 2012; 20 pages.
+Government of Canada Report: [_The Canadian Geospatial Data Infrastructure vision, mission and roadmap - The way forward_](http://www.nrcan.gc.ca/earth-sciences/geomatics/canadas-spatial-data-infrastructure/8904).Alternative link [here](https://doi.org/10.4095/292417). Natural Resources Canada, Information Product 28e, 2012; 20 pages.
 
 **Video:** Hans Rosling, [_The River of Myths_](http://www.gapminder.org/videos/the-river-of-myths/), BBC4
 
@@ -186,7 +170,7 @@ Government of Canada Report: [_The Canadian Geospatial Data Infrastructure visio
 
 #### Assignment 3:
 
-Read the Principles listed in the CGDI Vision, Mission and Road Map, and write a 1 page opinion piece on the policy orientation of these principles for Canada.  Keep in mind some of the concepts in Anderson, Alonso, Starr, and Corson.
+> Read the Principles listed in the CGDI Vision, Mission and Road Map, and write a 1 page opinion piece on the policy orientation of these principles for Canada.  Keep in mind some of the concepts in Anderson, Alonso, Starr, and Corson.
 
 #### _Assignment 2 is due_
 
@@ -212,7 +196,7 @@ Bivens, Rena, (Forthcoming 2015) [The Gender Binary Will Not be Deprogrammed: Te
 
 #### Assignment 4:
 
-Go to the [Environics Analytics website](http://www.environicsanalytics.ca/) and lookup your geodemographic profile in the PRIZM5 data segmentation product. Copy and paste the description, explain how the tool works, and in a paragraph or two critically discuss whether or not you fit the profile. Also explain how your profile was created, provide the names and sources of 2 or 3 of the datasets used to create it. Be sure to include all of the steps you took to discover this information, such as urls and sources. 
+> Go to the [Environics Analytics website](http://www.environicsanalytics.ca/) and lookup your geodemographic profile in the PRIZM5 data segmentation product. Copy and paste the description, explain how the tool works, and in a paragraph or two critically discuss whether or not you fit the profile. Also explain how your profile was created, provide the names and sources of 2 or 3 of the datasets used to create it. Be sure to include all of the steps you took to discover this information, such as urls and sources. 
 
 #### _Assignment 3 is due_
 
@@ -220,11 +204,11 @@ Go to the [Environics Analytics website](http://www.environicsanalytics.ca/) and
 
 **This class has some heavy reading – apologies -- it will take time, but I promise these readings will be worth it.  We have discussed many issues to far, and here we get into the meat/tofu and potatoes of big data.  You will learn how data are plugged into algorithms that predict outcomes that in turn get acted upon.**
 
-Williamson, Ben (2014) [Governing Software: Networks, Databases and Algorithmic Power in the Digital Governance of Public Education, Learning](DOI: 10.1080/17439884.2014.924527), _Media and Technology_, 40:1, 83-105
+Williamson, Ben (2014) [Governing Software: Networks, Databases and Algorithmic Power in the Digital Governance of Public Education, Learning](http://doi.org/10.1080/17439884.2014.924527), _Media and Technology_, 40:1, 83-105
 
 Guzic, Keith, (2009) [Discrimination by Design, Predictive Data Mining as Security Practice in the United States ‘War on Terrorism’](http://library.queensu.ca/ojs/index.php/surveillance-and-society/article/view/3304/3267) ,in _Surveillance Systems_, 7(1) pp. 1-20.
 
-Marron, Donncha (2007) [Lending by Numbers’: Credit Scoring and the Constitution of Risk within American Consumer Credit](DOI:10.1080/03085140601089846), _Economy and Society_, 36(1) pp.103-133.
+Marron, Donncha (2007) [Lending by Numbers’: Credit Scoring and the Constitution of Risk within American Consumer Credit](http://doi.org/10.1080/03085140601089846), _Economy and Society_, 36(1) pp.103-133.
 
 **I will also refer to the following resources in class.**
 
@@ -245,7 +229,7 @@ and/or [TV Show](http://io9.com/minority-report-tv-series-trailer-shows-what-hap
 
 #### Assignment 5:
 
-In this assignment you are asked to consider the benefits and risks related to predictive analytics as discussed in the readings and discuss how these could affect you or people in your network and how much you might be willing to give up for safety and protection.
+> In this assignment you are asked to consider the benefits and risks related to predictive analytics as discussed in the readings and discuss how these could affect you or people in your network and how much you might be willing to give up for safety and protection.
 
 #### _Assignment 4 is due_
 
@@ -259,7 +243,7 @@ Mann, Steve; Nolan; Jason and Wellman, Barry (2003) [Sousveillance: Inventing an
 
 **The following are resources I will refer to in the lecture, especially Crang and Graham.**
 
-Crang, Mike and Graham, Stephen (2007) [Sentient Cities: Ambient Intelligence and the Politics of Urban Space](DOI: 10.1080/13691180701750991), _Information, Communication & Society_, 10(6). pp. 789-817. 
+Crang, Mike and Graham, Stephen (2007) [Sentient Cities: Ambient Intelligence and the Politics of Urban Space](https://doi.org/10.1080/13691180701750991), _Information, Communication & Society_, 10(6). pp. 789-817. 
 
 **Magazine Article:** Jordan, M. and Pfarr. [Forget the Quantified Self. We Need to Build the Quantified Us](http://www.wired.com/2014/04/forget-the-quantified-self-we-need-to-build-the-quantified-us/), _Wired_, April 2014. 
 
@@ -272,7 +256,8 @@ Crang, Mike and Graham, Stephen (2007) [Sentient Cities: Ambient Intelligence an
 **Useful Reference:** Gurrin, Cathal; Smeaton, Alan F. and Doherty, Aiden R. (2014), [LifeLogging: Personal Big Data](http://dx.doi.org/10.1561/1500000033), _Foundations and Trends in Information Retrieval_: Vol. 8: No. 1, pp 1-125.[PrePrint Version found here](http://doras.dcu.ie/19998/1/FnTIR_lifelogging_journal.pdf) 
 
 #### Assignment 6:
-Select one of the apps listed in **The Beginner’s Guide to Quantified Self** or one of the related apps you use. Read the Terms of Use / Licence and describe who has rights over the data collected.  In addition, explain the way data are delivered to you, what kind of trend data & tools & visualizations are provided, and how do you get access to these? What kind of data are you providing them? Finally, provide your thoughts about data access and ownership.  Be sure to provide URLs, the name of the app, the company that produces it, if there was a cost associated, and if you cannot download the ToU or Licence, copy paste the text and add it as an appendices.
+> Select one of the apps listed in **The Beginner’s Guide to Quantified Self** or one of the related apps you use. Read the Terms of Use / Licence and describe who has rights over the data collected.  
+> In addition, explain the way data are delivered to you, what kind of trend data & tools & visualizations are provided, and how do you get access to these? What kind of data are you providing them? Finally, provide your thoughts about data access and ownership.  Be sure to provide URLs, the name of the app, the company that produces it, if there was a cost associated, and if you cannot download the ToU or Licence, copy paste the text and add it as an appendices.
 
 #### _Assignment 5 is due_
 
@@ -284,13 +269,13 @@ Byers, Michael (2008) [For Sale: Arctic Sovereignty? How losing a Canadian satel
 
 Tully, Mike. (2013) [The Rise Of The [Geospatial] Machines Part 1: The Future With Unmanned Aerial Systems (UAS), , The Rise Of The [Geospatial] Machines Part 2: Business And Privacy, and The Rise Of The [Geospatial] Machines Part 3: New Opportunities In The Coming Unmanned Aerial System](https://www.sensorsandsystems.com/authors/author-list/34-mtully.html) (UAS) Age. _Sensors and Systems._ 
 
-Warf, B. (2007), [Geopolitics of the Satellite Industry.](DOI: 10.1111/j.1467-9663.2007.00405.x) _Tijdschrift voor economische en sociale geografie_, 98 (3) pp. 385–397.
+Warf, B. (2007), [Geopolitics of the Satellite Industry.](http://doi.org/10.1111/j.1467-9663.2007.00405.x) _Tijdschrift voor economische en sociale geografie_, 98 (3) pp. 385–397.
 
 **Below are some useful EO data and information resources for you.**
 
 Lewis, James Andrew (2004) [Galileo and GPS: From Competition to Cooperation](http://csis.org/files/media/csis/pubs/040601_galileo_gps_competition_coop.pdf), Center for Strategic and International Studies June 2004.
 
-Lauriault, Tracey P. and Wood, Jeremy, (2009) [GPS Tracings – Personal Cartographies.](DOI: 10.1179/000870409X12549997389628) _The Cartographic Journal_ 46 (4) Art & Cartography Special Issue. pp. 360–365. Alternate link [here](http://www.gpsdrawing.com/press/caj71-JeremyWood.pdf)
+Lauriault, Tracey P. and Wood, Jeremy, (2009) [GPS Tracings – Personal Cartographies.](http://doi.org/10.1179/000870409X12549997389628) _The Cartographic Journal_ 46 (4) Art & Cartography Special Issue. pp. 360–365. Alternate link [here](http://www.gpsdrawing.com/press/caj71-JeremyWood.pdf)
 
 **Educational Resources:**
 
@@ -302,9 +287,8 @@ Lauriault, Tracey P. and Wood, Jeremy, (2009) [GPS Tracings – Personal Cartogr
 
 #### Assignment 7:
 
-Go to the American Association for the Advancement of Science (AAAS) website and select one of any of the EO [human rights case studies](http://www.aaas.org/case-studies#HR_cases) or one of their [human rights reports and documents](http://www.aaas.org/page/remote-sensing-human-rights-project#Reports). 
-
-Explain how EO technologies were used to document a crisis or a human rights issue, include how the issues was reported, something about the organizations involved, how the data were accessed, and your reflections on this type of analysis and reporting and why you think the organizations involved chose this route.
+> Go to the American Association for the Advancement of Science (AAAS) website and select one of any of the EO [human rights case studies](http://www.aaas.org/case-studies#HR_cases) or one of their [human rights reports and documents](http://www.aaas.org/page/remote-sensing-human-rights-project#Reports). 
+> Explain how EO technologies were used to document a crisis or a human rights issue, include how the issues was reported, something about the organizations involved, how the data were accessed, and your reflections on this type of analysis and reporting and why you think the organizations involved chose this route.
 
 #### _Assignment 6 is due_
 
@@ -314,11 +298,11 @@ Explain how EO technologies were used to document a crisis or a human rights iss
 
 **In this lecture we look into data being produced by ‘amateurs’, collected by the ‘crowd’, crowdsourced labour practices and disrupting formal data producing institutions.**
 
-Bonney, R., Cooper, C.B., Dickinson, J.,  Kelling, T.P., Rosenberg, k. V. and Shirk, J. (2009) [‘Citizen Science: A Developing Tool for Expanding Science Knowledge and Scientific Literacy.’](doi:10.1525/bio.2009.59.11.9.) BioScience 59 (11),  pp. 977–84. 
+Bonney, R., Cooper, C.B., Dickinson, J.,  Kelling, T.P., Rosenberg, k. V. and Shirk, J. (2009) [‘Citizen Science: A Developing Tool for Expanding Science Knowledge and Scientific Literacy.’](http://dx.doi.org/10.1525/bio.2009.59.11.9) BioScience 59 (11),  pp. 977–84. 
 
 Haklay, M. (2013) ['Citizen Science and Volunteered Geographic Information: Overview and Typology of Participation.’](http://catalogue.library.carleton.ca/record=b3296151) In: Crowdsourcing Geographic Knowledge, Sui, D., Elwood, S. and Goodchild, M. Eds, Springer Netherlands. 
 
-**Video:** Buscher, Monika (2014) Digital urbanism in crises: A hopeful monster? At the Software and the City Workshop, Programmable City Project, National University of Ireland Maynooth. https://vimeo.com/106958965
+**Video:** Buscher, Monika (2014) [Digital urbanism in crises: A hopeful monster? At the Software and the City Workshop](https://vimeo.com/106958965), Programmable City Project, National University of Ireland Maynooth.
 
 
 
@@ -334,7 +318,7 @@ Kingsley; Sara C., Gray, Mary L. and Suri; Siddharth (2014) [Monopsony and the C
 
 #### Assignment 8:
 
-Discuss whether or not government could benefit from user generated data, and if so how could government and other institutions such as aid agencies authoritatively stand behind these? The Government of Canada did recently use some crowdsourced data, and some concerns were noted, find examples of this at any level of government and discuss any of the concerns listed.
+> Discuss whether or not government could benefit from user generated data, and if so how could government and other institutions such as aid agencies authoritatively stand behind these? The Government of Canada did recently use some crowdsourced data, and some concerns were noted, find examples of this at any level of government and discuss any of the concerns listed.
 
 #### _Assignment 7 is due_
 
@@ -346,11 +330,11 @@ Discuss whether or not government could benefit from user generated data, and if
 
 **Crowdsourcing we examine ways that individuals and groups get things counted or counting what has been collected, making data accessible and open and the politics thereof.**
 
-Campbell, Rebecca; Shaw, Jessica and Fehler–Cabral, Giannina (2015)[Shelving Justice: The Discovery of Thousands of Untested Rape Kits in Detroit](DOI: 10.1111/cico.12108), _City & Community,_ 14 (2) 2, pp.151–166.
+Campbell, Rebecca; Shaw, Jessica and Fehler–Cabral, Giannina (2015)[Shelving Justice: The Discovery of Thousands of Untested Rape Kits in Detroit](http://doi.org/10.1111/cico.12108), _City & Community,_ 14 (2) 2, pp.151–166.
 
-Comas-d’Argemir, Dolors, (2015) [News of Partner Femicides: The Shift from Private Issue to Public Problem.](doi:10.1177/0267323114544865)_European Journal of Communication_, 30(2), pp. 121-137.
+Comas-d’Argemir, Dolors, (2015) [News of Partner Femicides: The Shift from Private Issue to Public Problem.](http://doi.org/10.1177/0267323114544865)_European Journal of Communication_, 30(2), pp. 121-137.
 
-Zuiderwijk, A. and Janssen, M. 2014, [Open data policies, their implementation and impact: A framework for comparison](doi:10.1016/j.giq.2013.04.003), _Government Information Quarterly_ (31) 17–29.
+Zuiderwijk, A. and Janssen, M. 2014, [Open data policies, their implementation and impact: A framework for comparison](http://doi.org/10.1016/j.giq.2013.04.003), _Government Information Quarterly_ (31) 17–29.
 
 **Below are resources related to the topics in the readings.**
 
@@ -370,7 +354,7 @@ Zuiderwijk, A. and Janssen, M. 2014, [Open data policies, their implementation a
 
 #### Assignment 9: 
 
-Compare and contrast the issues related to counting and data collection with open data as forms of data based activism.  When doing so consider the policies being addressed, the data being accessed, the actors involved and evidence based decision-making.
+> Compare and contrast the issues related to counting and data collection with open data as forms of data based activism.  When doing so consider the policies being addressed, the data being accessed, the actors involved and evidence based decision-making.
 
 #### _Assignment 8 is due_
 
@@ -385,21 +369,21 @@ Ribes, D. and Jackson, S.J. (2013) [Data bite man: The work of sustaining long-t
 
 **Below are additional resources that I will refer to in class.**
 
-Hoyman, Michele and Faricy, Christopher (2008) [It Takes a Village A Test of the Creative Class, Social Capital, and Human Capital Theories](DOI:10.1177/1078087408321496), _Urban Affairs Review_. DOI:10.1177/1078087408321496, Alternate link [here.](http://uar.sagepub.com/content/44/3/311.full.pdf+html)
+Hoyman, Michele and Faricy, Christopher (2008) [It Takes a Village A Test of the Creative Class, Social Capital, and Human Capital Theories](http://doi.org/10.1177/1078087408321496), _Urban Affairs Review_. DOI:10.1177/1078087408321496, Alternate link [here.](http://uar.sagepub.com/content/44/3/311.full.pdf+html)
 
-Huggins, R. (2009) [Regional Competitive Intelligence: Benchmarking and Policy-Making](doi:10.1080/00343400802331312), _Regional Studies_, 44(5): 639-658.
+Huggins, R. (2009) [Regional Competitive Intelligence: Benchmarking and Policy-Making](https://doi.org/10.1080/00343400802331312), _Regional Studies_, 44(5): 639-658.
 
 [**The Dublin Dashboard**](http://www.dublindashboard.ie/pages/ContactUs)
 
-Kitchin, Rob, Lauriault, Tracey P. and  McArdle, Gavin (2015) [Knowing and governing cities through urban indicators, city benchmarking and real-time dashboards, Regional Studies](DOI:10.1080/21681376.2014.983149), _Regional Science_, 2 (1) pp. 6-28, Alternate link [here.](http://rsa.tandfonline.com/doi/abs/10.1080/21681376.2014.983149?src=recsys)
+Kitchin, Rob, Lauriault, Tracey P. and  McArdle, Gavin (2015) [Knowing and governing cities through urban indicators, city benchmarking and real-time dashboards, Regional Studies](https://doi.org/10.1080/21681376.2014.983149), _Regional Science_, 2 (1) pp. 6-28, Alternate link [here.](http://rsa.tandfonline.com/doi/abs/10.1080/21681376.2014.983149?src=recsys)
 
 **Blog Post:** Florida, Richard, (2012) [What Critics Get Wrong About the Creative Class and Economic Development](http://www.citylab.com/work/2012/07/what-critics-get-wrong-about-creative-class/2430/), Atlantic City Lab, July 3rd.
 
-**Seminar Video:** Tkacz, Nathaniel (2014) [Dashboards and Data Signals](http://www.maynoothuniversity.ie/progcity/2014/10/nathaniel-tkacz-dashboards-and-data-signals/ ), Programmable City Project Seminar Series.
+**Seminar Video:** Tkacz, Nathaniel (2014) [Dashboards and Data Signals](http://www.maynoothuniversity.ie/progcity/2014/10/nathaniel-tkacz-dashboards-and-data-signals/), Programmable City Project Seminar Series.
 
 #### Assignment 10: 
 
-Select an indicator system of your choice, choose one or two of the indicators or indices in that system, explain how it is constructed, including data sources, how it is represented, the policy it aims to inform and assess if it meets intended objectives, and if not why.
+> Select an indicator system of your choice, choose one or two of the indicators or indices in that system, explain how it is constructed, including data sources, how it is represented, the policy it aims to inform and assess if it meets intended objectives, and if not why.
 
 #### _Assignment 9 is due_
 
@@ -407,7 +391,7 @@ Select an indicator system of your choice, choose one or two of the indicators o
 
 Lauriault, T. P. and D. R. F. Taylor, 2012, [The Map as a Fundamental Source in the Memory of the World](http://ciscra.org/docs/Lauriault_Taylor_Map.pdf), _UNESCO Memory of the World in the Digital Age: Digitization and Preservation_, Vancouver, BC.
 
-McKemmish, Sue (1996) [Evidence of me](DOI:10.1080/00049670.1996.10755757), _The Australian Library Journal_, 45(3) pp.174-187. Alternate link [here.](http://www.tandfonline.com/doi/pdf/10.1080/00049670.1996.10755757)
+McKemmish, Sue (1996) [Evidence of me](https://doi.org/10.1080/00049670.1996.10755757), _The Australian Library Journal_, 45(3) pp.174-187. Alternate link [here.](http://www.tandfonline.com/doi/pdf/10.1080/00049670.1996.10755757)
 
 Ruus, Laine G. M. (1982) [The University of British Columbia Data Library](https://www.ideals.illinois.edu/bitstream/handle/2142/7217/librarytrendsv30i3h_opt.pdf?sequence=1&isAllowed=y), _Library Trends_ 30(3) pp.397-406.
 
@@ -444,3 +428,18 @@ Kitchin, R., 2014, Chapter 11: [Making Sense of the Data Revolution](, http://ca
 #### _Final Essay is due no later than Monday Dec. 7 at noon._
 
 ### Exams December 9 – 21
+
+# Learning Management System
+
+* This course uses cuLearn, Carleton’s learning management system. Updates to course information and readings will be posted on cuLearn. 
+* Assignments are to be submitted on cuLearn by noon on Thursday (see Schedule below).
+
+* To access your courses on cuLearn, go to carleton.ca/culearn. For help and support, go to carleton.ca/culearnsupport/students. Any unresolved questions can be directed to Computing and Communication Services by phone at (613) 520-3700 or via email at ccs_service_desk@carleton.ca.
+
+* Please note that cuLearn is tied to your Carleton email address. Any notifications related to the class will go to that email. Check it regularly.
+
+* If you are sending me email, please ensure that COMM 3409A is added in the subject line with the topic of discussion
+
+* Outside of class time, you can make use of various digital tools to engage with the class. For example, use the discussion forum on cuLearn to ask questions of peers, TAs, and the professor or to talk with your classmates about course material and assignments.
+
+* I will respond to student emails within 24hours between Monday-Friday, 10-5PM, be sure to have COMM 3409A is added in the subject line. Please note that I do not respond to email during the weekend.
