@@ -15,6 +15,12 @@
 
 **Office Hours:** Tuesday and Thursday 3:30-5:30 or by appointment
 
+ # Quick Navigation
+| [Course Description and Objectives](https://github.com/TraceyLauriault/COMM3409_Fall2015#course-description) 	|
+|------------------------------------------------------------------------------------------------------------------------------------	|
+| [**Assignments**](https://github.com/TraceyLauriault/COMM3409_Fall2015#assigments) 	|
+| [**Readings and Schedule**](https://github.com/TraceyLauriault/COMM3409_Fall2015#readings--schedule) 	|
+
 # Course Description
 
 > The collection of data about us generally starts when we are born, (sometimes earlier – consider the example of ultrasound), and then continues throughout the course of our lives. Data about us are collected when we go to school and then enter the labour force. We are also tracked throughout our lives via the unique identifier of a Social Insurance Number. Data are also produced as we go about our ordinary daily activities – when we shop, bank, make phone calls, order a taxi, use social media, navigate the city, vote, exercise, and file taxes. Data are also collected as we do exceptional things such as cross international borders, check into hospital, when we commit infractions, at death and even afterward depending on what happens to our bodies, how our families and friends commemorate and remember us and if our actions are recorded and archived. We are datafied, living a dataless life is nearly impossible as is ‘living below the radar’, we each have a data double that leaves behind a data shadow.
@@ -34,6 +40,16 @@ The objectives of this course are to learn to:
 
 * identify data politics and critically read data polities; and
 * think about data-based knowledge, the construction of facts and the framing of the truth.
+
+# Assignments
+
+| Assignment                      | Weight |
+|---------------------------------|--------|
+| Assignments (5 @ 10% each)      | 50%    |
+| Essay Proposal                  | 5%     |
+| Final Essay                     | 20%    |
+| Final Exam                      | 25%    |
+| Total                           | 100%   |
 
 ## Short Assigments
 (5 X 10%=50%), due by noon on the Thursday before class as per the schedule below:
@@ -82,6 +98,22 @@ Include the following on the title page:
 The final exam will include a combination of multiple choice questions, short answer questions about concepts, topics, and issues, and one long answer essay question. The university sets the time and location. Please do not make end-of-term travel plans until these exam schedules have been posted. If you miss the exam, you will have to apply for a formal deferral from the Registrar’s Office – there is no guarantee this application will be approved.
 
 # Readings & Schedule
+| Week 	| Theme 	|
+|--------------------------	|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------	|
+| Week 1 (Sept.3) 	| [Introduction - Counting](https://github.com/TraceyLauriault/COMM3409_Fall2015#week-1-sept3---introduction---counting) 	|
+| Week 2 (Sept.10) 	| [Big Data](https://github.com/TraceyLauriault/COMM3409_Fall2015#week-2-sept-10--big-data) 	|
+| Week 3 (Sept.17) 	| [Small Data – Census, Administrative data and Mapping](https://github.com/TraceyLauriault/COMM3409_Fall2015#week-3-sept-17--small-data--census-administrative-data-and-mapping) 	|
+| Week 4 (Sept.24) 	| [Sorting – Forms, loyalty cards, classification and geodemographics](https://github.com/TraceyLauriault/COMM3409_Fall2015#week-4-sept-24-sorting--forms-loyalty-cards-classification-and-geodemographics) 	|
+| Week 5 (Oct.1) 	| [Prediction - Credit, Policing, Algorithmic Governance](https://github.com/TraceyLauriault/COMM3409_Fall2015#week-5-oct-1--prediction---credit-policing-algorithmic-governance) 	|
+| Week 6 (Oct.8) 	| [Sensors – Wearables, LBS, IoT/UbiComp/Smart City](https://github.com/TraceyLauriault/COMM3409_Fall2015#week-6-oct-8--sensors--wearables-lbs-iotubicompsmart-city) 	|
+| Week 7 (Oct.15) 	| [Earth Observation – Satellites, Radar, GNSS – GPS/Galileo and UAVs/Drones](https://github.com/TraceyLauriault/COMM3409_Fall2015#week-7-oct-15--earth-observation--satellites-radar-gnss--gpsgalileo-and-uavsdrones) 	|
+| Week 8 (Oct.22) 	| [User Generated Content - Citizen Science, Crowdsourcing & Volunteered Geographic Information](https://github.com/TraceyLauriault/COMM3409_Fall2015#week-8-oct-22--user-generated-content---citizen-science-crowdsourcing--volunteered-geographic-information) 	|
+| Fall Break (Oct 26 – 30) 	| No classes 	|
+| Week 9 (Nov.5) 	| [Data-Based Activism](https://github.com/TraceyLauriault/COMM3409_Fall2015#week-9-nov-5-data-based-activism) 	|
+| Week 10 (Nov.12) 	| [Command and Control - Indicators, Benchmarks, Dashboards and Control Rooms](https://github.com/TraceyLauriault/COMM3409_Fall2015#week-10-nov-12--command-and-control---indicators-benchmarks-dashboards-and-control-rooms) 	|
+| Week 11 (Nov.19) 	| [Data as Cultural Artifacts and Remembering - Portals, Library Databases and Archives](https://github.com/TraceyLauriault/COMM3409_Fall2015#week-11-nov-19--data-as-cultural-artifacts-and-remembering---portals-library-databases-and-archives) 	|
+| Week 12 (Nov.26) 	| [Critical Data Studies](https://github.com/TraceyLauriault/COMM3409_Fall2015#week-12-nov-26--critical-data-studies) 	|
+| Week 13 (Dec.3) 	| [Making Sense of it all and Review](https://github.com/TraceyLauriault/COMM3409_Fall2015#week-13-dec-3--making-sense-of-it-all-and-review) 	|
 
 ## Week 1 (Sept.3) - Introduction - Counting
 
@@ -328,7 +360,7 @@ Kingsley; Sara C., Gray, Mary L. and Suri; Siddharth (2014) [Monopsony and the C
 
 ### Study Break – Oct 26 – 30
 
-## Week 9 (Nov. 5) –Data-Based Activism
+## Week 9 (Nov. 5) Data-Based Activism
 
 **Crowdsourcing we examine ways that individuals and groups get things counted or counting what has been collected, making data accessible and open and the politics thereof.**
 
