@@ -18,7 +18,7 @@
  # Quick Navigation
 | [Course Description and Objectives](https://github.com/TraceyLauriault/COMM3409_Fall2015#course-description) 	|
 |------------------------------------------------------------------------------------------------------------------------------------	|
-| [**Assignments**](https://github.com/TraceyLauriault/COMM3409_Fall2015#assigments) 	|
+| [**Assignments**](https://github.com/TraceyLauriault/COMM3409_Fall2015#assignments) 	|
 | [**Readings and Schedule**](https://github.com/TraceyLauriault/COMM3409_Fall2015#readings--schedule) 	|
 
 # Course Description
